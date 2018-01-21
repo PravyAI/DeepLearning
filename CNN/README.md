@@ -10,7 +10,7 @@ Install pip [here](https://pip.pypa.io/en/stable/).
 
 ## Usage
 
-to start the web app run `python run.py` . To start the notebook run `jupyter notebook` in terminal. 
+To start the web app run `python run.py` . To start the notebook run `jupyter notebook` in terminal. 
 
 
 
